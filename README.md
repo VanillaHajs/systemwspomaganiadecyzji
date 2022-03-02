@@ -8,6 +8,7 @@ Value_iteration
 - algorytm jest bardziej złożony.
 - algorytm potrzebuje dużo iteracji aby uzyskać najlepszy wynik.
 - wolniejszy z uwagi na złożoność.
+
 Policy_iteration
 - algorytm jest prostszy.
 - mniej iteracji niż w przypadku Value_iteration
